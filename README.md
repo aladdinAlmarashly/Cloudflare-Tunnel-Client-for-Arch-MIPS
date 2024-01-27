@@ -4,7 +4,7 @@ This repository hosts the MIPS architecture-compatible build of the Cloudflare T
 
 ## Background
 
-I created this build to establish a Cloudflare Tunnel with my Xiaomi Router 3G, which operates on a MIPS architecture. After extensive testing and not finding any existing solutions, I successfully compiled a compatible version for MIPS architecture.
+I created this build to establish a Cloudflare Tunnel with my Xiaomi Router 3G running with openWRT, which operates on a MIPS architecture. After extensive testing and not finding any existing solutions, I successfully compiled a compatible version for MIPS architecture.
 
 ## Release
 
