@@ -24,12 +24,13 @@ To install and run this Cloudflare Tunnel client on your MIPS-based device, foll
 1. **Upload the Binary:**
    - Transfer the `cloudflared` binary to `/usr/bin/cloudflared` on your device.
 
-2. **Make Executable:**
-   - Run `chmod +x /usr/bin/cloudflared` to make the binary executable.
-
-3. **Configure and Upload the Init Script:**
+2. **Configure and Upload the Init Script:**
    - Modify the `cloudflared` init script to include your specific token.
    - Upload the modified init script to `/etc/init.d/cloudflared`.
+
+3. **Make Executable:**
+   - Run `chmod +x /usr/bin/cloudflared` to make the binary executable.
+   - Run `chmod +x /etc/init.d/cloudflared` to make the binary executable.
 
 4. **Start the Service:**
    - To start the Cloudflare Tunnel, use `/etc/init.d/cloudflared start`.
