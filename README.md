@@ -1,10 +1,10 @@
 # Cloudflare Tunnel Client for Arch MIPS
 
-This repository hosts the MIPS architecture-compatible build of the Cloudflare Tunnel client, specifically tailored for use with devices like the Xiaomi Router 3G. This build was derived from Cloudflare's official Tunnel client release `2024.1.5`.
+This repository hosts the MIPS architecture-compatible build of the Cloudflare Tunnel client, specifically tailored for use with devices like the Xiaomi Router 3G running with openWRT. This build was derived from Cloudflare's official Tunnel client release `2024.1.5`.
 
 ## Background
 
-I created this build to establish a Cloudflare Tunnel with my Xiaomi Router 3G running with openWRT, which operates on a MIPS architecture. After extensive testing and not finding any existing solutions, I successfully compiled a compatible version for MIPS architecture.
+I created this build to establish a Cloudflare Tunnel with our Xiaomi Router 3G running with openWRT, which operates on a MIPS architecture. After extensive testing and not finding any existing solutions, We successfully compiled a compatible version for MIPS architecture.
 
 ## Release
 
