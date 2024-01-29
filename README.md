@@ -39,7 +39,7 @@ To install and run this Cloudflare Tunnel client on your MIPS-based device, foll
    - To have the Cloudflare Tunnel start on boot, use `/etc/init.d/cloudflared enable`.
 
 6. **Monitoring Logs:**
-   - To monitor the logs, use `logread -f`.
+   - To monitor the logs, use `logread`.
 
 ## Configuration
 
